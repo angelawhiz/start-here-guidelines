@@ -114,6 +114,8 @@ cl# CONTRIBUTORS
 
 - [@Awerner5413](https://github.com/awerner5413)
 
+- [@angelawhiz](https://github.com/angelawhiz)
+
 - [@Beavinco](https://github.com/beavinco)
 
 - [@carolinaqvargas](https://github.com/carolinaqvargas)
